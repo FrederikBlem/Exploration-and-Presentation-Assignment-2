@@ -1,0 +1,23 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Assignment Tasks}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Assignment Subsection}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Assignment Subsubsection}{4}{subsubsection.2.1.1}%
+\contentsline {paragraph}{\nonumberline A}{4}{paragraph*.6}%
+\contentsline {subparagraph}{\nonumberline A}{4}{subparagraph*.8}%
+\contentsline {subsection}{\numberline {2.2}Assignment Lists}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Assignment Tables}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Assignment Code Listings}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Assignment Math equations}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}State of the art and trends}{6}{section.3}%
+\contentsline {section}{\numberline {4}Requirements specification and solution design}{7}{section.4}%
+\contentsline {section}{\numberline {5}Solution development and implementation}{7}{section.5}%
+\contentsline {section}{\numberline {6}Conclusions}{8}{section.6}%
+\contentsline {section}{\numberline {7}Rules and recommendations to Remember}{8}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Report}{8}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Final works}{8}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Other Handy Things}{8}{subsection.7.3}%
+\contentsline {section}{Appendices}{9}{section*.14}%
+\contentsline {section}{\numberline {A}Appendix A}{9}{appendix.1.A}%
+\contentsline {section}{\numberline {B}Appendix B}{9}{appendix.1.B}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
